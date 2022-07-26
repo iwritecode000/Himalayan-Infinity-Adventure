@@ -27,3 +27,7 @@
 .offer_style{
     background: #a6dcef;
 }  
+
+.Services :hover{
+    background-color: whitesmoke;
+}

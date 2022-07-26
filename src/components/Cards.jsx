@@ -8,7 +8,7 @@ const Cards = () => {
         <>
             <section class="main_heading my-5 bg-light py-5">
                 <div class="text-center display-4">
-                    <h1 class="">Our Services</h1>
+                    <h1 class="">Upcoming Events</h1>
                     <hr class="w-25 mx-auto" />
                 </div>
                 <div class="container">
